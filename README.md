@@ -3,7 +3,7 @@ About me
 - 👋 Hi, I’m @MPrevost02
 - 👀 I’m interested in video games
 - 🌱 I’m currently learning Java/JavaFX
-- 🚀 I'm currently a student of IUT informatique de Limoges
+- 🚀 I'm currently a student
 - 📫 How to reach me: matys.prevost02@gmail.com
 - 🌍 I can speak french and english
 
